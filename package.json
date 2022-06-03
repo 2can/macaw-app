@@ -1,5 +1,5 @@
 {
-  "name": "saleor-app-template",
+  "name": "saleor-app-template-macawui",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,9 +11,9 @@
   },
   "saleorApp": {
     "logo": "/apps/klaviyo_logo.png",
-    "name": "Saleor App Template",
-    "shortDescription": "Bare-bones boilerplate for writing Saleor Apps with Next.js.",
-    "sourceUrl": "https://github.com/saleor/saleor-app-template/",
+    "name": "Saleor Macaw App",
+    "shortDescription": "Bare-bones boilerplate for writing Saleor Apps with Next.js & MacawUI",
+    "sourceUrl": "https://github.com/2can/macaw-app",
     "vendor": "Saleor Commerce",
     "links": [
       {
